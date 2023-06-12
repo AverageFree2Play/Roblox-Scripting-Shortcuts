@@ -10,3 +10,6 @@ Special thanks to:
 - The guy who made the Artificial HeartBeat (Forgot their name. D: )
 - Some people who made the Useful Functions/Shortcuts from the Script/one of the [ModuleScripts](https://create.roblox.com/docs/reference/engine/classes/ModuleScript).
 - You! For reading this! o((>ω< ))o
+# Download
+- You can get the Roblox Model [here](https://www.roblox.com/library/13710773150/Shortcuts)
+- You can get the rbxm file from the rep [here](https://github.com/AverageFree2Play/Roblox-Scripting-Shortcuts/blob/472b3a5c5f00040483e646606dc23898ba7fab42/Shortcuts.rbxm) 
