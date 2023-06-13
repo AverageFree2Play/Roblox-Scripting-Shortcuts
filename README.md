@@ -5,14 +5,15 @@ This rep also includes some useful [ModuleScripts](https://create.roblox.com/doc
 > [ModuleScripts](https://create.roblox.com/docs/reference/engine/classes/ModuleScript) are used to shorten the script lines.
 # Credits
 Special thanks to:
-- zeruxcg (for the old [LoadLibrary](https://devforum.roblox.com/t/loadlibrary-is-going-to-be-removed-on-february-3rd/382516) Modules)
-- The people who contributed on the [Yueliang Project](https://github.com/gamesys/moonshine/blob/master/extensions/luac/yueliang.lua)
-- The guy who made the Artificial HeartBeat (Forgot their name. D: )
+- zeruxcg (for the old [LoadLibrary](https://devforum.roblox.com/t/loadlibrary-is-going-to-be-removed-on-february-3rd/382516) Modules.
+- [DuyGamerLHB](https://github.com/DuyGamerLHB) for some of the functions he gave me permission to use.
+- The people who contributed on the [Yueliang Project](https://github.com/gamesys/moonshine/blob/master/extensions/luac/yueliang.lua).
+- The guy who made the Artificial Heartbeat. (Forgotten their name. D: )
 - Some people who made the Useful Functions/Shortcuts from the Script/one of the [ModuleScripts](https://create.roblox.com/docs/reference/engine/classes/ModuleScript).
-- You! For reading this! o((>ω< ))o
+- You! For reading this! o((>ω<))o
 # Download
 - You can get the Roblox Model [here](https://www.roblox.com/library/13710773150/Shortcuts)
 - You can get the rbxm file from the rep [here](https://github.com/AverageFree2Play/Roblox-Scripting-Shortcuts/blob/4d38a0c7879eb4322c2ed27b7971e81839396227/Shortcuts.rbxm)
-- Script only coming soon!
+- Script only (No [ModuleScripts](https://create.roblox.com/docs/reference/engine/classes/ModuleScript)) coming soon!
 # Documentation
-- Coming soon also...
+- Coming soon on the [Wiki Tab](https://github.com/AverageFree2Play/Roblox-Scripting-Shortcuts/wiki).
