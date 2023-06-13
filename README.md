@@ -16,4 +16,4 @@ Special thanks to:
 - You can get the rbxm file from the rep [here](https://github.com/AverageFree2Play/Roblox-Scripting-Shortcuts/blob/4d38a0c7879eb4322c2ed27b7971e81839396227/Shortcuts.rbxm)
 - Script only (No [ModuleScripts](https://create.roblox.com/docs/reference/engine/classes/ModuleScript)) coming soon!
 # Documentation
-- Coming soon on the [Wiki Tab](https://github.com/AverageFree2Play/Roblox-Scripting-Shortcuts/wiki).
+- See the [Wiki Tab](https://github.com/AverageFree2Play/Roblox-Scripting-Shortcuts/wiki) here.
