@@ -13,3 +13,6 @@ Special thanks to:
 # Download
 - You can get the Roblox Model [here](https://www.roblox.com/library/13710773150/Shortcuts)
 - You can get the rbxm file from the rep [here](https://github.com/AverageFree2Play/Roblox-Scripting-Shortcuts/blob/4d38a0c7879eb4322c2ed27b7971e81839396227/Shortcuts.rbxm)
+- Script only coming soon!
+# Documentation
+- Coming soon also...
