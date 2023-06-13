@@ -17,3 +17,8 @@ Special thanks to:
 - Script only (No [ModuleScripts](https://create.roblox.com/docs/reference/engine/classes/ModuleScript)) coming soon!
 # Documentation
 - See the [Wiki Tab](https://github.com/AverageFree2Play/Roblox-Scripting-Shortcuts/wiki) here.
+# Usage
+- Can be used on [BaseScripts](https://create.roblox.com/docs/reference/engine/classes/BaseScript) and [ModuleScripts](https://create.roblox.com/docs/reference/engine/classes/ModuleScript) (i think..)
+- You can learn how to use all the features of this script in the [Wiki Tab](https://github.com/AverageFree2Play/Roblox-Scripting-Shortcuts/wiki)!
+# Contributing
+- There are currently no rules on contributing. Just open a pull request and if it checks out we will merge it!
